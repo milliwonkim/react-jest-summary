@@ -1,3 +1,5 @@
+// Counter.tsx
+
 import React, { Component } from 'react';
 
 interface ICounter {
